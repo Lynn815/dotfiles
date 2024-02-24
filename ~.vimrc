@@ -1,1 +1,0 @@
-/home/lynn/.dotfiles/vimrc
