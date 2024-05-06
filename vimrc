@@ -86,6 +86,7 @@ set expandtab
 set tabstop=4
 set shiftwidth=4
 set softtabstop=4
+autocmd Filetype make set noexpandtab
 " 切换分屏
 " nnoremap <C-j> <C-w>j
 " nnoremap <C-k> <C-w>k
